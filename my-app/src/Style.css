@@ -1,0 +1,28 @@
+.login{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-style{
+  border: none;
+  margin-top: 15px;
+}
+.card-style h3{
+  color: rgb(179, 66, 102);
+}
+.check-box-section{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+.check-box-section a{
+  text-decoration: none;
+}
+.graph-heading{
+  padding-left: 50px;
+  font-size: 20rem;
+  font-family: monospace;
+  color: rgb(54, 59, 56);
+}
